@@ -74,8 +74,8 @@ hr {
   display: flex;
   justify-content: center;
   align-items: center;
-
-  width: 221.46px;
+  font-family: 'Inter';
+  width: 248.46px;
   height: 47.96px;
   margin-left: calc(50% - 221.46px / 2 + 2.27px);
   margin-top: 43px;
@@ -87,7 +87,7 @@ hr {
 }
 .col2 {
   margin-left: 139px;
-  margin-top: -35px;
+  margin-top: -37px;
 }
 
 .img_filter {
